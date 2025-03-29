@@ -1,0 +1,18 @@
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"ADD: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Request received: GET /","service":"calculator-microservice"}
+{"level":"info","message":"Request received: GET /add?num1=10&num2=5","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Request received: GET /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"Request received: GET /subtract?num1=10&num2=5","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction: 10 - 5 = 5","service":"calculator-microservice"}
+{"level":"info","message":"Request received: GET /multiply?num1=10&num2=5","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication: 10 * 5 = 50","service":"calculator-microservice"}
+{"level":"info","message":"Request received: GET /divide?num1=10&num2=5","service":"calculator-microservice"}
+{"level":"info","message":"Division: 10 / 5 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Request received: GET /","service":"calculator-microservice"}
